@@ -14,6 +14,7 @@ $path = rtrim($path, '/') ?: '/';
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@400;600;700&family=Manrope:wght@300;500;600;700&display=swap" rel="stylesheet">
+  <link rel="icon" href="<?php echo base_path_url('assets/imgs/logo.jpeg'); ?>" type="image/jpeg">
   <link rel="stylesheet" href="<?php echo base_path_url('assets/css/style.css'); ?>">
 </head>
 <body>
